@@ -81,15 +81,15 @@ This section presents the key findings and visualizations from the Exploratory D
 
 
 <img width="3780" height="1890" alt="Untitled design" src="https://github.com/user-attachments/assets/9d90e0cd-04ad-4931-9c64-53e7c617bdbd" />
-
-
 <img width="1238" height="165" alt="Screenshot 2025-07-23 at 4 31 37 PM" src="https://github.com/user-attachments/assets/0ee78f76-cc88-4c54-a600-233872a419a6" />
 
+### Problematic multicolinearity Detection Among Independent Features
+<img width="3780" height="1890" alt="Untitled design" src="https://github.com/user-attachments/assets/0891578d-f083-48e8-af71-aba67f1feeb3" />
 
-
-
-
-
+From the vif analysis I found out that features which vif value greater than 5 needs to be dropped, But I was not sure which features to drop the I created heatmap to see multicolinearity values and found out which features to be dropped.
+* Heat map to be sure which feature to drop
+  (Before features drop)
+<img width="1314" height="1250" alt="download (1)" src="https://github.com/user-attachments/assets/8ee33c40-cc02-49d9-91de-c5b24ac54062" />
 
 
 
