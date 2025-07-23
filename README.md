@@ -69,4 +69,5 @@ This section presents the key findings and visualizations from the Exploratory D
 ### insights from various categorical features
 <img width="3780" height="1890" alt="Untitled design" src="https://github.com/user-attachments/assets/a9a440d4-f6d2-4a35-8bae-05b9a130b2f6" />
 <img width="3780" height="1890" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/02e4b152-dc2c-46a5-9adf-2af6d51f0cc3" />
+<img width="1352" height="202" alt="Screenshot 2025-07-23 at 2 54 28 PM" src="https://github.com/user-attachments/assets/b7bc0931-866a-4b6b-853d-25687f5c415b" />
 
