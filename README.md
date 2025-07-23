@@ -71,3 +71,8 @@ This section presents the key findings and visualizations from the Exploratory D
 <img width="3780" height="1890" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/02e4b152-dc2c-46a5-9adf-2af6d51f0cc3" />
 <img width="1352" height="202" alt="Screenshot 2025-07-23 at 2 54 28 PM" src="https://github.com/user-attachments/assets/b7bc0931-866a-4b6b-853d-25687f5c415b" />
 
+### insights from various categorical feature vs churn
+<img width="3780" height="1890" alt="Untitled design" src="https://github.com/user-attachments/assets/b400d50b-34aa-4f03-8fe6-4277a3f6ce82" />
+<img width="3780" height="1890" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/52ab368c-d78f-4722-847c-6636432a2dec" />
+<img width="1354" height="253" alt="Screenshot 2025-07-23 at 4 18 43 PM" src="https://github.com/user-attachments/assets/8a4a957f-f254-45f3-a121-e07c39578b66" />
+
