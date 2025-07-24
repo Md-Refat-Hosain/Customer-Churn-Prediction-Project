@@ -99,14 +99,31 @@ I found out these are features to be droped
 Why did not I drop high multicolinearity feature **(0.79)** , because those features are not equally impactfull for target variables.
 
 
- ### Technical Aspects 
+ ## ⚙️ Technical Aspects
  This section details the technical methodologies and tools employed throughout the Car Price Prediction project, from data ingestion to model development.
 
  
 (Before data preprocessing dataset's video)
 [<img width="1358" height="351" alt="Screenshot 2025-07-24 at 6 53 06 AM" src="https://github.com/user-attachments/assets/a953e3ec-b734-42ce-baf0-f9157eb2a9e9" />](https://youtu.be/lbAg0mrnOhQ)
 
+### 1. Data Processing & Feature Engineering
+
+* **Source Data:** The project utilized a comprehensive dataset of car listings, including attributes such as Contract,PaymentMethod ,Churn ,MultipleLines  , and various categorical features.
 
 
+### Data Cleaning:
 
+* Handled missing values through appropriate imputation strategies (e.g., median for numerical features, mode for categorical features).
+
+* Identified and addressed outliers in numerical features (e.g. MonthlyCharges	,TotalCharges) to improve model robustness.
+
+
+### Feature Engineering:
+
+* Created new features where applicable (e.g., Age from year of manufacture, if not directly available).
+
+* Managed complex categorical features, including those with special characters like '()', ensuring they were correctly processed for model training.
+
+(After data preprocessing video)
+[<img width="1358" height="438" alt="Screenshot 2025-07-24 at 7 08 34 AM" src="https://github.com/user-attachments/assets/e6de0727-1f59-4c91-ab05-f8f0034c54e4" />](https://youtu.be/vG_bx7bG-Ek)
 
