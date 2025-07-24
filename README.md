@@ -138,8 +138,21 @@ Why did not I drop high multicolinearity feature **(0.79)** , because those feat
   <img width="988" height="400" alt="Screenshot 2025-07-24 at 7 29 20 AM" src="https://github.com/user-attachments/assets/70c79421-3d08-4acc-9dcf-8bdf50ad2856" />
 
 
+## 🛠️ Tools & Libraries
 
+* **Programming Language:** Python
 
+* **Data Manipulation:** `pandas`, `numpy`
+
+* **Machine Learning:** `scikit-learn`, `xgboost`
+
+* **Model Persistence:** `joblib`
+
+* **Visualization:** `matplotlib`, `seaborn`
+
+* **Version Control:** `Git`, `GitHub`
+
+## 🚀 Future Enhancements & Learnings
 
 
 
