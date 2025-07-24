@@ -91,11 +91,12 @@ From the vif analysis I found out that features which vif value greater than 5 n
 * (Before features drop)
 <img width="1314" height="1250" alt="download (1)" src="https://github.com/user-attachments/assets/8ee33c40-cc02-49d9-91de-c5b24ac54062" />
 I found out these are features to be droped
-<img width="477" height="214" alt="Screenshot 2025-07-24 at 6 18 18 AM" src="https://github.com/user-attachments/assets/ab1f3bf2-2616-422c-8b7a-62ef6039c1b6" />
+<img width="1358" height="214" alt="Screenshot 2025-07-24 at 6 27 03 AM" src="https://github.com/user-attachments/assets/f7b7b7d3-0a19-42e0-b3fa-b7d2736f10aa" />
+
 <br><br>
 (After removing features)
-
-<img width="1150" height="1050" alt="download (2)" src="https://github.com/user-attachments/assets/08ccd65e-b3d9-4cdf-bbb6-86d234be695c" />
+<img width="1150" height="1050" alt="download (4)" src="https://github.com/user-attachments/assets/d8add631-2a8f-420a-a2ae-d05444573c34" />
+Why did not I drop high multicolinearity feature **(0.79)** , because those features are not equally impactfull for target variables.
 
 
 
