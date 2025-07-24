@@ -110,7 +110,7 @@ Why did not I drop high multicolinearity feature **(0.79)** , because those feat
  This section details the technical methodologies and tools employed throughout the Car Price Prediction project, from data ingestion to model development.
 
  
-(Before data preprocessing dataset's video)
+(Before data preprocessing dataset's video: Please click on it)
 [<img width="1358" height="351" alt="Screenshot 2025-07-24 at 6 53 06 AM" src="https://github.com/user-attachments/assets/a953e3ec-b734-42ce-baf0-f9157eb2a9e9" />](https://youtu.be/lbAg0mrnOhQ)
 
 ### 1. Data Processing & Feature Engineering
@@ -131,7 +131,7 @@ Why did not I drop high multicolinearity feature **(0.79)** , because those feat
 
 * Managed complex categorical features, including those with special characters like '()', ensuring they were correctly processed for model training.
 
-(After data preprocessing video)
+(After data preprocessing video: Please click on it)
 [<img width="1358" height="438" alt="Screenshot 2025-07-24 at 7 08 34 AM" src="https://github.com/user-attachments/assets/e6de0727-1f59-4c91-ab05-f8f0034c54e4" />](https://youtu.be/vG_bx7bG-Ek)
 
 
@@ -159,7 +159,6 @@ Why did not I drop high multicolinearity feature **(0.79)** , because those feat
 
 * **Version Control:** `Git`, `GitHub`
 
-## 🚀 Future Enhancements & Learnings
 
 
 
