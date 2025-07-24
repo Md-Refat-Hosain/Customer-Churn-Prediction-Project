@@ -60,6 +60,7 @@ To understand and explore this project, navigate through the following key secti
 * **`requirements.txt`**: Lists all the Python libraries and their exact versions required to run this project, ensuring environment reproducibility.
 * **`images/`**: Contains all the plots and screenshots embedded in this `README.md` for visual context.
 
+<br><br>
 
 ## 🚀 Customer Churn Prediction ( via FastAPI )
 ( fastAPI video: please click on it )
