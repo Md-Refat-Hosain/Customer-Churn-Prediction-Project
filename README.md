@@ -1,4 +1,7 @@
 
+<img width="2850" height="700" alt="65f11e01-631e-4e8a-a88d-3568315702eb (1)" src="https://github.com/user-attachments/assets/96c4f1cb-a2d9-4085-a1ec-248167b5c14b" />
+
+
 #  Telecom Customer Churn Prediction Project
 
 
