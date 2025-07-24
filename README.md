@@ -127,3 +127,28 @@ Why did not I drop high multicolinearity feature **(0.79)** , because those feat
 (After data preprocessing video)
 [<img width="1358" height="438" alt="Screenshot 2025-07-24 at 7 08 34 AM" src="https://github.com/user-attachments/assets/e6de0727-1f59-4c91-ab05-f8f0034c54e4" />](https://youtu.be/vG_bx7bG-Ek)
 
+
+
+## ⚙️ Technical Aspects: Model Development & Evaluation
+
+### Model Development & Evaluation
+
+* **Model Selection:** I have used three models those are **Random forest classifier** , **Logistic regression** ,**Support vector machine** and among them the best one was **Logistic Regression** (For this dataset)
+  <br><br>
+  <img width="988" height="400" alt="Screenshot 2025-07-24 at 7 29 20 AM" src="https://github.com/user-attachments/assets/70c79421-3d08-4acc-9dcf-8bdf50ad2856" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
