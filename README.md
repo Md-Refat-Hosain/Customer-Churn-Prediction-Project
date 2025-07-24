@@ -133,7 +133,7 @@ Why did not I drop high multicolinearity feature **(0.79)** , because those feat
 
 ### Model Development & Evaluation
 
-* **Model Selection:** I have used three models those are **Random forest classifier** , **Logistic regression** ,**Support vector machine** and among them the best one was **Logistic Regression** (For this dataset)
+* **Model Selection:** I have used three models those are **Random forest classifier** , **Logistic regression** ,**Support vector machine**, All three of them used various **hyperparameters** and among them the best one was **Logistic Regression** (For this dataset) Area Under the Curve **(0.84)**
   <br><br>
   <img width="988" height="400" alt="Screenshot 2025-07-24 at 7 29 20 AM" src="https://github.com/user-attachments/assets/70c79421-3d08-4acc-9dcf-8bdf50ad2856" />
 
