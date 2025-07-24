@@ -61,6 +61,12 @@ To understand and explore this project, navigate through the following key secti
 * **`images/`**: Contains all the plots and screenshots embedded in this `README.md` for visual context.
 
 
+## 🚀 Customer Churn Prediction ( via FastAPI )
+( fastAPI video: please click on it )
+
+[<img width="1425" height="363" alt="Screenshot 2025-07-24 at 8 31 04 AM" src="https://github.com/user-attachments/assets/fb2e7723-cba9-48fa-9137-a01ac1f7fbc6" />](https://youtu.be/Nzq4505M4fo)
+<br><br>
+
 
 ## ✨ Key Insights
 
