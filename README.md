@@ -101,6 +101,8 @@ Why did not I drop high multicolinearity feature **(0.79)** , because those feat
 
  ### Technical Aspects 
  This section details the technical methodologies and tools employed throughout the Car Price Prediction project, from data ingestion to model development.
+
+ 
 (Before data preprocessing dataset's video)
 [<img width="1358" height="351" alt="Screenshot 2025-07-24 at 6 53 06 AM" src="https://github.com/user-attachments/assets/a953e3ec-b734-42ce-baf0-f9157eb2a9e9" />](https://youtu.be/lbAg0mrnOhQ)
 
