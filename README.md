@@ -48,8 +48,7 @@ To understand and explore this project, navigate through the following key secti
 * **`notebooks/`**: This folder houses the Jupyter Notebooks detailing each stage of the project.
     * `01_EDA.ipynb`: Comprehensive Exploratory Data Analysis, including all visualizations and initial insights.
     * `02_Preprocessing.ipynb`: Detailed steps for data cleaning, feature engineering, and transformation.
-    * `03_Model_Training_Evaluation.ipynb`: Model selection, initial training, and performance evaluation.
-    * `04_Hyperparameter_Tuning.ipynb`: All the model used  hyperparameter optimization to get the best model's hyperparameters.
+    * `03_Model_Training_Evaluation_and_Hyperparameter_Tuning .ipynb`: Model selection, initial training, and performance evaluation.
 
 
 ### 2. Model Artifacts
